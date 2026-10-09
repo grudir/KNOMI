@@ -1,4 +1,4 @@
-const char index_html[] PROGMEM = R"rawliteral(<!DOCTYPE html>
+const char index_html[] PROGMEM = R"html(<!DOCTYPE html>
 <html style="font-family: Arial, Helvetica, sans-serif;
 display: inline-block;
 text-align: center;">
@@ -709,4 +709,4 @@ text-align: center;">
     };
   </script>
 </body>
-</html>)rawliteral";
+</html>)html";
